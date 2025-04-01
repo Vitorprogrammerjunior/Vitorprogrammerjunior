@@ -2,7 +2,7 @@
 
 <h1 align="left">Opa, como vai?</h1>
 
-<img src="[../banner](https://github.com/Vitorprogrammerjunior/Vitorprogrammerjunior/blob/main/banner.png)" />
+<img src="../banner" />
 
 Sou graduando no curso de Sistemas de Informação pela UFRRJ, estagiário em computação na Petrobras e desenvolvedor web Front-end, entusiasta das tecnologias JavaScript. 
 
