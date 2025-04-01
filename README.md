@@ -1,4 +1,4 @@
-```html
+html
 <!DOCTYPE html>
 <html lang="pt">
 <head>
@@ -49,4 +49,4 @@
     </script>
 </body>
 </html>
-```
+
