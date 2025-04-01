@@ -2,16 +2,20 @@
 
 <h1 align="left">Opa, como vai?</h1>
 
-<img src="../banner" />
+<img width="auto" height="600px" src="banner.png" />
 
-Sou graduando no curso de Sistemas de Informação pela UFRRJ, estagiário em computação na Petrobras e desenvolvedor web Front-end, entusiasta das tecnologias JavaScript. 
+Estou me Guraduando em ADS(Análise e desenvolvimewnto de sistemas) na universidade UNIVC, no momento eu programo a 5 anos apenas como freelancer, em transição de junior para pleno
+
+Atualmente trabalho na prefeitura de São Mateus ES como desenolvedor web sendo do cargo estagiário 🔧
+
+Sou fluente em inglês: Nível A1 e A2 
 
 No momento, meu foco de estudos é em React.js e em Node.js - em um futuro próximo, viso me tornar um desenvolvedor Full Stack.
-Sou aluno na [Rocketseat](https:/rocketseat.com) e desenvolvo projetos freelancer - aberto a oportunidades 🙋🏾‍♂️
+Sou um programador web completo e estou aberto a oportunidades 🙋🏾‍♂️
 
-Também amo café, ouvir todo tipo de música e estou disponível para conexões e trocas de ideias!
+Estou aberto a bate papos, e estou sempre apredendo novas tecnologias, venha me conhecer!!
 
-📌 [Meu portifólio](https://lucyanovidio.vercel.app)
+📌 Portifólio a ser colocado em breve...
 
 <div align="center">
 
@@ -26,26 +30,35 @@ Também amo café, ouvir todo tipo de música e estou disponível para conexões
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="52" alt="python logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" width="52" alt="django logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="52" alt="tailwind logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" width="52" alt="bootstrap logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" width="52" alt="php logo" />
+
+
 
  ### Minhas redes
  
- <a href="https://linkedin.com/in/lucyanovidio">
+ <a href="https://www.linkedin.com/in/vitor-vagmaker-silva-133b5b307/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
+ <!--
  <a href="https://lucyanovidio.vercel.app">
    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
- </a>
- <a href="https://instagram.com/lucyanovidio">
+ </a>-->
+ <a href="https://www.instagram.com/vitor_vagmaker/">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
- <a href="https://twitter.com/lucyanovidio">
-   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://api.whatsapp.com/send?phone=5521971602369&text=E%20aí!%20Vim%20do%20teu%20Github.%20Bora%20bater%20um%20papo?">
+
+ <a href="https://api.whatsapp.com/send?phone=5527995179542&text=E%20aí!%20Vim%20do%20teu%20Github.%20Bora%20bater%20um%20papo?">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>
+ <!--
  <a href="https://discord.com/users/803410251427872779">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
- </a>
+ </a>-->
  
 </div>
