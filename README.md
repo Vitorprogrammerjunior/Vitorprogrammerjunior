@@ -53,7 +53,7 @@ Estou aberto a bate papos, e estou sempre apredendo novas tecnologias, venha me 
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
 
- <a href="https://api.whatsapp.com/send?phone=5527995179542&text=E%20aí!%20Vim%20do%20teu%20Github.%20Bora%20bater%20um%20papo?">
+ <a href="https://api.whatsapp.com/send?phone=5527995179542&text=E%20aí!%20Vim%20do%20teu%20Github.%20Bora%20bater%20um%20papo?" target="blank">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>
  <!--
