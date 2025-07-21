@@ -4,7 +4,7 @@
 
 <img width="auto" height="600px" src="banner.png" />
 
-Estou me Guraduando em ADS(Análise e desenvolvimewnto de sistemas) na universidade UNIVC, no momento eu programo a 5 anos apenas como freelancer, em transição de junior para pleno
+Estou me Graduando em ADS(Análise e desenvolvimewnto de sistemas) na universidade UNIVC, no momento eu programo a 5 anos apenas como freelancer, em transição de junior para pleno
 
 Atualmente trabalho na prefeitura de São Mateus ES como desenolvedor web sendo do cargo estagiário 🔧
 
