@@ -15,7 +15,7 @@ Sou um programador web completo e estou aberto a oportunidades 🙋🏾‍♂️
 
 Estou aberto a bate papos, e estou sempre apredendo novas tecnologias, venha me conhecer!!
 
-📌 Portifólio a ser colocado em breve...
+📌 Portifólio: https://portifolio-production-2b48.up.railway.app
 
 <div align="center">
 
