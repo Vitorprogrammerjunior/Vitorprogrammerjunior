@@ -4,14 +4,11 @@
 
 <img width="auto" height="600px" src="banner.png" />
 
-Estou me Graduando em ADS(Análise e desenvolvimewnto de sistemas) na universidade UNIVC, no momento eu programo a 5 anos apenas como freelancer, em transição de junior para pleno
+Desenvolvedor Full Stack com foco em **Laravel e Vue.js**, construindo aplicações web modernas e APIs REST.
 
-Atualmente trabalho no Hub do Cricaré em São Marteus, ES 🔧
+Tenho experiência desenvolvendo **sistemas SaaS, painéis administrativos e aplicações web completas**, utilizando tecnologias como **PHP, Laravel, Vue, TypeScript, MySQL, Redis e Docker**.
 
-Sou fluente em inglês: Nível A1 e A2 
-
-No momento, meu foco de estudos é em React.js e em Node.js - em um futuro próximo, viso me tornar um desenvolvedor Full Stack.
-Sou um programador web completo e estou aberto a oportunidades 🙋🏾‍♂️
+Busco uma oportunidade como **Desenvolvedor Junior** para continuar evoluindo como engenheiro de software e contribuir com soluções reais em produção.
 
 Estou aberto a bate papos, e estou sempre apredendo novas tecnologias, venha me conhecer!!
 
