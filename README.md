@@ -8,7 +8,7 @@ Desenvolvedor Full Stack com foco em **Laravel e Vue.js**, construindo aplicaç�
 
 Tenho experiência desenvolvendo **sistemas SaaS, painéis administrativos e aplicações web completas**, utilizando tecnologias como **PHP, Laravel, Vue, TypeScript, MySQL, Redis e Docker**.
 
-Busco uma oportunidade como **Desenvolvedor Junior** para continuar evoluindo como engenheiro de software e contribuir com soluções reais em produção.
+Busco uma oportunidade como **Desenvolvedor Junior** para continuar evoluindo como desenvolvedor de software e contribuir com soluções reais em produção.
 
 Estou aberto a bate papos, e estou sempre apredendo novas tecnologias, venha me conhecer!!
 
