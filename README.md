@@ -2,7 +2,10 @@
 
 <h1 align="left">Opa, como vai?</h1>
 
-<img width="auto" height="600px" src="banner.png" />
+<p align="center">
+  <img src="terminal.svg" alt="Terminal — Vitor Vagmaker Silva, Full Stack Developer" width="850" />
+</p>
+<img width="850" height="350" alt="terminal" src="https://github.com/user-attachments/assets/3dd540d5-829b-4af7-8044-c243f7b62e17" />
 
 Desenvolvedor Full Stack com foco em **Laravel e Vue.js**, construindo aplicações web modernas e APIs REST.
 
